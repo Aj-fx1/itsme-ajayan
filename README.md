@@ -4,11 +4,12 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/Aj-fx/count.svg)
 
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<img src=https://i.ibb.co/74wm5SW/amalser.jpg>
 
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Ajfx&nbsp;
 
-![My card name](https://cardivo.vercel.app/api?name=Ajfx-%20userbot&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/w89FHm7.pngbackgroundColor=%23ecf0f1&github=Ajfx&&pattern=leaf&colorPattern=%25eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Aj%20fx&description=Hi,%20Welcome%20To%20Aj%20fx%20WhatsApp%20Bot%20Repo%20💌&image=https://i.ibb.co/74wm5SW/amalser.jpg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=Aj_cutzz&github=Aj-fx&)
+  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=0e75b6&style=flat" alt="Ajfx" /> </p>
 
