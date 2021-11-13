@@ -25,7 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajfx&theme=dark" alt="Ajfx" /></p>
 </p>
 
-- 🔭 I’m currently working on [Ajfx] (https://github.com/Aj-fx/Ajfx)
+- 🔭 I’m currently working on [Ajfx] (https://github.com/Amal-ser/Amalser)
 
 - 💬 Ask me about **ME**
 
